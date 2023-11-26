@@ -2,9 +2,9 @@
 Este módulo exporta uma função chamada contagem. A função contagem recebe um número n como argumento e imprime todos os números de 1 a n no console.
 ## Uso
 Primeiro, importe o módulo em seu arquivo JavaScript:
-```const contagem = require('./contagem');```
+- ```const contagem = require('./contagem');```
 Em seguida, você pode chamar a função contagem com um número como argumento:
-```contagem(10);```
+- ```contagem(10);```
 (Exemplo 10)
 Isso imprimirá os números de 1 a 10 no console.
 ## Parâmetros
@@ -16,10 +16,10 @@ A função contagem não retorna nenhum valor
 Este módulo exporta uma função chamada sum. A função sum recebe dois números como argumentos e retorna a soma deles.
 ## Uso
 Primeiro, importe o módulo em seu arquivo JavaScript:
-```const sum = require('./sum');```
+- ```const sum = require('./sum');```
 Em seguida, você pode chamar a função sum com dois números como argumentos:
-```let resultado = sum(5, 3);```
-```console.log(resultado);  // Isso imprimirá '8' no console.```
+- ```let resultado = sum(5, 3);```
+- ```console.log(resultado);  // Isso imprimirá '8' no console.```
 ## Parâmetros
 A função sum aceita os seguintes parâmetros:
 

@@ -8,8 +8,8 @@
 - ```const contagem = require('./contagem');```
 ##### Em seguida, você pode chamar a função contagem com um número como argumento:
 - ```contagem(10);```
-##### (Exemplo 10)
-Isso imprimirá os números de 1 a 10 no console.
+###### (Exemplo 10)
+##### Isso imprimirá os números de 1 a 10 no console.
 ## Parâmetros
 ##### A função contagem aceita os seguintes parâmetros:
  ```n: Um número``` . 

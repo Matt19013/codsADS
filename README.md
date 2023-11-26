@@ -31,7 +31,21 @@
 - ```b:``` Um número.
 ## Retorno
 ##### A função sum retorna a soma dos dois números fornecidos como argumentos. Por exemplo, ```sum(2, 3) retornará 5```
-#
+# NumeroP
+##### Este módulo exporta uma função chamada```ehPrimo```.
+##### A função ```ehPrimo``` recebe um número como argumento e retorna ```true``` se o número for primo e ```false``` caso contrário.
+## Uso
+##### Primeiro, importe o módulo em seu arquivo JavaScript:
+- ```const ehPrimo = require('./ehPrimo');```
+##### Em seguida, você pode chamar a função ```ehPrimo``` com um número como argumento:
+- ```let resultado = ehPrimo(7);```
+- ```console.log(resultado);  // Isso imprimirá 'true' no console, pois 7 é um número primo.```
+## Parâmetros
+##### A função ```ehPrimo``` aceita o seguinte parâmetro:
+- ```n:``` Um número.
+## Retorno
+##### A função ```ehPrimo``` retorna ```true``` se o número fornecido for primo e ```false``` caso contrário. 
+##### Por exemplo, ```ehPrimo(2)``` retornará ```true```, enquanto ```ehPrimo(4)``` retornará ```false```.
 #
 #
 #

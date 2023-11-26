@@ -1,6 +1,6 @@
 # Contagem
 Este módulo exporta uma função chamada contagem. 
-<h4>A função contagem recebe um número n como argumento e imprime todos os números de 1 a n no console.</h4>
+<h6>A função contagem recebe um número n como argumento e imprime todos os números de 1 a n no console.</h6>
 
 
 ## Uso

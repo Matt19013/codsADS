@@ -25,10 +25,10 @@ Isso imprimirá os números de 1 a 10 no console.
 - ```let resultado = sum(5, 3);```
 - ```console.log(resultado);  // Isso imprimirá '8' no console.```
 ## Parâmetros
-##### A função sum aceita os seguintes parâmetros:
+##### A função ```sum``` aceita os seguintes parâmetros:
 
-- a: Um número.
-- b: Um número.
+- ```a:``` Um número.
+- ```b:``` Um número.
 ## Retorno
 ##### A função sum retorna a soma dos dois números fornecidos como argumentos. Por exemplo, ```sum(2, 3) retornará 5```
 #

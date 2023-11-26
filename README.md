@@ -1,14 +1,14 @@
 # Contagem
-Este módulo exporta uma função chamada contagem. 
-<h5>A função contagem recebe um número n como argumento e imprime todos os números de 1 a n no console.</h5>
+##### Este módulo exporta uma função chamada contagem. 
+##### A função contagem recebe um número n como argumento e imprime todos os números de 1 a n no console.
 
 
 ## Uso
 Primeiro, importe o módulo em seu arquivo JavaScript:
 - ```const contagem = require('./contagem');```
-Em seguida, você pode chamar a função contagem com um número como argumento:
+##### Em seguida, você pode chamar a função contagem com um número como argumento:
 - ```contagem(10);```
-(Exemplo 10)
+##### (Exemplo 10)
 Isso imprimirá os números de 1 a 10 no console.
 ## Parâmetros
 A função contagem aceita os seguintes parâmetros:
